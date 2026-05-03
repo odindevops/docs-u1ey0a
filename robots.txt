@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odindevops.github.io/docs-u1ey0a/sitemap.xml
